@@ -1,4 +1,6 @@
-# Qwik City App ⚡️
+# Qwik App ⚡️
+
+This app is purely for qwik playground use only.
 
 - [Qwik Docs](https://qwik.builder.io/)
 - [Discord](https://qwik.builder.io/chat)
